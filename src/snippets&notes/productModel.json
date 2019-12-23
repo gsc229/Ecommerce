@@ -1,0 +1,17 @@
+{
+  "diet": [
+    "Vegetarian"
+  ],
+  "product_images": [
+    "no-photo.jpg",
+    "https://res.cloudinary.com/dxhescd0s/image/upload/v1577045642/quickstreet/vvglh3uqtlkkzusfyfpg.jpg",
+    "https://res.cloudinary.com/dxhescd0s/image/upload/v1576877626/samples/animals/kitten-playing.gif"
+  ],
+  "name": "Asparagus",
+  "description": "Asparagus, salted with garlic",
+  "category": "Baked Goods",
+  "price": 13,
+  "vendor": "5d725a1b7b292f5f8ceff788",
+  "createdAt": "2019-12-22T23:10:37.997Z",
+  "__v": 0
+}
